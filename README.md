@@ -9,17 +9,22 @@ Are we the only ones in this universe? For centuries, many people have been obse
 
 * A topic description or summary * A table displaying all of the information from the data source * Search filters allowing visitors to update the table based on the search criteria they enter
 * 
-![Image](Modulo11_6.png?raw=true)
+![Image](Modulo11_4.png?raw=true)
+
 
 Here we can show how to select, drop and display information
-You will notice that a **"Filter Search"** section has been added. 
+You will notice that a **"Filter Search"** section has been added.
+![Image](Modulo11_6.png?raw=true)
 
 You can filter by one or all of the search criteria shown. For example, if you search by **"City"**, you will see that the table updated to show the reported sightings that was recorded for that specific city.
+
+![Image](Modulo11_3.png?raw=true)
 
 If you add a shape, the table will update filtering further to only display the information containing that shape.
 
 
 Or if you delete your previous entries and enter **"State"** and **"Shape"**, the table will update using your new criteria.
+![Image](Modulo11_5.png?raw=true)
 
 
 ## Summary
