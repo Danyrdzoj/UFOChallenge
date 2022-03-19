@@ -8,6 +8,8 @@ The goal of this project was to learn how to take data stored as a JavaScript ar
 Are we the only ones in this universe? For centuries, many people have been obsessed with UFO sightings. Is it a genuine government conspiracy or a hoax? We've been tasked with assisting in creating a website where others can access information about reported sightings and see for themselves. This website should include the following:
 
 * A topic description or summary * A table displaying all of the information from the data source * Search filters allowing visitors to update the table based on the search criteria they enter
+* 
+![Image](Modulo 11_6.png?raw=true)
 
 Here we can show how to select, drop and display information
 You will notice that a **"Filter Search"** section has been added. 
