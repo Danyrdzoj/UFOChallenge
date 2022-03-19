@@ -9,7 +9,7 @@ Are we the only ones in this universe? For centuries, many people have been obse
 
 * A topic description or summary * A table displaying all of the information from the data source * Search filters allowing visitors to update the table based on the search criteria they enter
 * 
-![Image](Modulo 11_6.png?raw=true)
+![Image](Modulo11_6.png?raw=true)
 
 Here we can show how to select, drop and display information
 You will notice that a **"Filter Search"** section has been added. 
