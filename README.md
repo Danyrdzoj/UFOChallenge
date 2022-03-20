@@ -24,7 +24,7 @@ If you add a shape, the table will update filtering further to only display the 
 
 
 Or if you delete your previous entries and enter **"State"** and **"Shape"**, the table will update using your new criteria.
-![Image](Modulo1%2011_5.png?raw=true)
+![Image](Modulo%2011_5.png?raw=true)
 
 
 ## Summary
