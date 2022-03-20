@@ -18,13 +18,13 @@ You will notice that a **"Filter Search"** section has been added.
 
 You can filter by one or all of the search criteria shown. For example, if you search by **"City"**, you will see that the table updated to show the reported sightings that was recorded for that specific city.
 
-![Image](Modulo%2011_3.png?raw=true)
+![Image](Modulo%2011_5.png?raw=true)
 
 If you add a shape, the table will update filtering further to only display the information containing that shape.
 
 
 Or if you delete your previous entries and enter **"State"** and **"Shape"**, the table will update using your new criteria.
-![Image](Modulo%2011_5.png?raw=true)
+![Image](Modulo%2011_3.png?raw=true)
 
 
 ## Summary
